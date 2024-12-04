@@ -2,13 +2,15 @@
 
 > Building the web [your way](#your)
 >
-> _v3 snoflake_
+> _v4 snocrystal_
 
 A lightweight JavaScript framework to add reactivity in a **_snap_**
 
+__To support older versions continue using `<script src="https://snojs.github.io/sno/sno.js"></script>`
+
 ```html
-<div data='{"count":1,"update":""}'>
-  <span exc='update = setInterval(function(){$("count++")},100)'></span>
+<div data='{count:1,update:""}'>
+  <span eval='update = setInterval(function(){$("count++")},100)'></span>
   <p react>
     {{count}}
   </p><br/>
@@ -26,9 +28,9 @@ A lightweight JavaScript framework to add reactivity in a **_snap_**
 4. **for**
 5. **react**
 6. **incl**
-7. **exc**
+7. **eval**
 
-## ## 4.04kb Build
+## ## 4.08kb Build
 
 **sno** is as tiny as you need with less than __300*__ lines of JS<br/>
 _Use less JavaScript write more HTML_
@@ -36,12 +38,12 @@ _Use less JavaScript write more HTML_
 ## ## Add sno to your project
 
 All you need is **One** script tag<br/>
-Download Locally [Here](https://snojs.github.io/build/sno-min.js)
+Download Locally [Here](https://snojs.github.io/build/crystal.js)
 
 Run from the link with a script tag
 
 ```html
-<script src="https://snojs.github.io/build/sno-min.js"></script>
+<script src="https://snojs.github.io/build/crystal.js"></script>
 ```
 
 <ins>Liscensed with MIT</ins>
