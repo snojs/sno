@@ -6,7 +6,9 @@
 
 A lightweight JavaScript framework to add reactivity in a **_snap_**
 
-__To support older versions continue using `<script src="https://snojs.github.io/sno/sno.js"></script>`__
+__To support older versions continue using__ ```html
+<script src="https://snojs.github.io/sno/sno.js"></script>
+```
 
 ```html
 <div data='{count:1,update:setInterval(()=>{$("count++")},100)}'>
