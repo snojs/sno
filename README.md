@@ -4,7 +4,7 @@
 >
 > _v4 snocrystal_
 
-A lightweight JavaScript framework to add reactivity in a **_snap_**
+Build Declarative UIs without ever leaving your HTML.
 
 __To support older versions continue using__ 
 
