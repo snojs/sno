@@ -12,7 +12,7 @@ __To support older versions continue using__
 <script src="https://snojs.github.io/sno/sno.js"></script>
 ```
 
-A basic app example app!
+
 
 ```html
 <div data='{count:1,update:setInterval(()=>{$("count++")},100)}'>
