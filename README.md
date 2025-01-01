@@ -35,7 +35,7 @@ __To support older versions continue using__
 6. **incl**
 7. **eval**
 
-## ## 4.08kb Build
+## ## 3.82kb Build
 
 **sno** is as tiny as you need with less than __300*__ lines of JS<br/>
 _Use less JavaScript write more HTML_
